@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 <h4>My name is Diego Nascimento. I am a Computer Engineer currently broadening my knowledge in other technologies so i can improve my overall developing skills.</h3>
 
-- 🔭 I’m currently working with **PHP**
+- 🔭 I’m currently working with **PHP, NODEJS**
 
-- 🌱 I’m currently learning **React JS, Next JS, TypeScript**
+- 🌱 I’m currently learning **React JS, Next JS, TypeScript, NestJS**
 
 - 🤝 I’m looking for **freelancing**
 
-- 💬 Ask me about **PHP, Design Patterns, Software Architecture**
+- 💬 Ask me about **PHP, Design Patterns, Software Architecture, NODEJS**
 
 
 <h3 align="left">Connect with me:</h3>
